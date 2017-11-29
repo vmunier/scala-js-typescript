@@ -1,7 +1,7 @@
 # scala-js-typescript
 
 A TypeScript-to-Scala.js converter. 
-Designed for parsing [http://definitelytyped.org](), powers [http://definitelyscala.com]().
+Designed for parsing http://definitelytyped.org, powers http://definitelyscala.com.
 
 ## Running
 
